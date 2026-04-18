@@ -1,4 +1,4 @@
-# Binath-sipsara# 👋 Hey! I'm [ඔයාගේ නම]
+# Binath-sipsara# 👋 Hey! Binath
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=00FFFF&text=COLLABORA&height=150&fontSize=60" />
